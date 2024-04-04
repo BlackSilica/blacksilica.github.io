@@ -9,12 +9,13 @@ date: 2024-04-03 23:43:12
 # 标题语法
 |markdown|html|显示效果|
 |--|--|--|
-|`# 一级标题`|`<h1>Heading level 1</h1>` |<h1>Heading level 1</h1>|
-|`## 二级标题`|`<h1>Heading level 1</h1>` |<h1>Heading level 1</h1>|
-|`### 三级标题`|`<h1>Heading level 1</h1>` |<h1>Heading level 1</h1>|
-|`#### 四级标题`|`<h1>Heading level 1</h1>` |<h1>Heading level 1</h1>|
-|`##### 五级标题`|`<h1>Heading level 1</h1>` |<h1>Heading level 1</h1>|
-|`###### 一级标题`|`<h1>Heading level 1</h1>` |<h1>Heading level 1</h1>|
+|`# 一级标题`|`<h1>一级标题</h1>` |<h1>一级标题</h1>|
+|`## 二级标题`|`<h2>二级标题</h2>` |<h2>二级标题</h2>|
+|`### 三级标题`|`<h3>三级标题</h3>` |<h3>三级标题</h3>|
+|`#### 四级标题`|`<h4>四级标题</h4>` |<h4>四级标题</h4>|
+|`##### 五级标题`|`<h5>五级标题</h5>` |<h5>五级标题</h5>|
+|`###### 六级标题`|`<h6>六级标题</h6>` |<h6>六级标题</h6>|
+
 {% tabs %}
 
 <!-- tab 效果 -->
@@ -67,5 +68,5 @@ date: 2024-04-03 23:43:12
 
 {% endtabs %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkzOTY3MjZdfQ==
+eyJoaXN0b3J5IjpbODIzNTgzODg5XX0=
 -->
