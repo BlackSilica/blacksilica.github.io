@@ -36,6 +36,11 @@ date: 2024-04-03 23:43:12
 |文本右对齐|                                |`<div align=right>文本右对齐</div>`|<div align=right>文本右对齐</div>|
 |文本扩展|                                |`<div align=justify>文本扩展</div>`|<div align=justify>文本扩展</div>|
 
+
+
+
+
+# 折叠框
 {% tabs %}
 
 <!-- tab 效果 -->
@@ -67,6 +72,6 @@ date: 2024-04-03 23:43:12
 {% endtabs %}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1MjkwMjA1LDMyODIxMDAwMSwtNzgxNz
-EwNzM0XX0=
+eyJoaXN0b3J5IjpbMTIwOTA0MzYwNiw5ODUyOTAyMDUsMzI4Mj
+EwMDAxLC03ODE3MTA3MzRdfQ==
 -->
