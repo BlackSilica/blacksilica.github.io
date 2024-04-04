@@ -66,28 +66,7 @@ date: 2024-04-03 23:43:12
 
 {% endtabs %}
 
-{% tabs First unique name %}
-
-<!-- tab First unique name 1 @ri:home-4-line -->
-
-**This is Tab 1.**
-
-<!-- endtab -->
-
-<!-- tab Icon Test @ri:cloud-line -->
-
-**This is Tab 2.**
-
-<!-- endtab -->
-
-<!-- tab -->
-
-**This is Tab 3.**
-
-<!-- endtab -->
-
-{% endtabs %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzQ2NzQ3NSwzMjgyMTAwMDEsLTc4MT
-cxMDczNF19
+eyJoaXN0b3J5IjpbOTg1MjkwMjA1LDMyODIxMDAwMSwtNzgxNz
+EwNzM0XX0=
 -->
