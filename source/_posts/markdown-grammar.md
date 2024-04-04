@@ -1,6 +1,7 @@
 ---
 title: Markdown语法
-tags: 速查表
+type: 速查表
+tags: hexo
 math: true
 mermaid: true
 date: 2024-04-03 23:43:12
@@ -58,3 +59,6 @@ date: 2024-04-03 23:43:12
 <!-- endtab -->
 
 {% endtabs %}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg2ODkxOTc3XX0=
+-->
