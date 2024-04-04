@@ -29,13 +29,12 @@ date: 2024-04-03 23:43:12
 | 文字下标 | `文字~下标~` | `文字<sub>下标</sub>` | 文字~下标~ |
 | 键盘码 |  | `<kbd>Ctrl</kbd>` | <kbd>Ctrl</kbd> |
 | 颜色文字 |  | `<font color="#54FF9F">颜色文字</font>` | <font color="#54FF9F">颜色文字</font> |
-| 颜色大小 |  | `<span style="font-size:0.7em;">0.7em 文字大小演示</span>` | <font color="#54FF9F">颜色文字</font> |
+| 文字大小 |  | `<span style="font-size:0.7em;">0.7em 文字大小</span>` | <span style="font-size:0.7em;">0.7em 文字大小</span> |
 | 文本缩写 |  | `<abbr title="文本缩写">wbsx</abbr>`    | <abbr title="文本缩写">wbsx</abbr> |
 |文本左对齐|                                |`<div align=left>文本左对齐</div>`|<div align=left>文本左对齐</div> |
 |文本居中|                                |`<div align=center>文本居中</div>`|<div align=center>文本居中</div>|
 |文本右对齐|                                |`<div align=right>文本右对齐</div>`|<div align=right>文本右对齐</div>|
 |文本扩展|                                |`<div align=justify>文本扩展</div>`|<div align=justify>文本扩展</div>|
-
 
 {% tabs %}
 
@@ -89,6 +88,6 @@ date: 2024-04-03 23:43:12
 
 {% endtabs %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3NzA1MTEyLDMyODIxMDAwMSwtNzgxNz
-EwNzM0XX0=
+eyJoaXN0b3J5IjpbLTU1MzQ2NzQ3NSwzMjgyMTAwMDEsLTc4MT
+cxMDczNF19
 -->
