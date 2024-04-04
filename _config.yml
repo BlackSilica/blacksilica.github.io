@@ -93,11 +93,22 @@ include:
 exclude:
 ignore:
 
+markdown:
+  plugins:
+    - "@traptitech/markdown-it-katex"
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
+tag_common:
+  cdn: https://fastly.jsdelivr.net/npm/ # enable CDN, default is https://fastly.jsdelivr.net/npm/ 
+  # which layout to use
+  # more info see https://hexo.io/api/injector.html#to-lt-string-gt
+  layout:
+    - post
+    - page
+    # - home
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
