@@ -6,7 +6,10 @@ math: true
 mermaid: true
 date: 2024-04-03 23:43:12
 ---
-# 标题
+# 标题语法
+|markdown|html|显示效果|
+|--|--|--|
+|# 一级标题|  |
 
 {% tabs %}
 
@@ -60,5 +63,5 @@ date: 2024-04-03 23:43:12
 
 {% endtabs %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTM5MzI2MV19
+eyJoaXN0b3J5IjpbMjExMjcwMjkyOF19
 -->
